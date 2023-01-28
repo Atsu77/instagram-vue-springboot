@@ -1,0 +1,14 @@
+# Created by https://www.toptal.com/developers/gitignore/api/java,vue,node,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=java,vue,node,visualstudiocode
+
+### Java ###
+
+api/HELP.md
+api/target/
+!api/.mvn/wrapper/maven-wrapper.jar
+!api/**/src/main/**/target/
+!api/**/src/test/**/target/
+
+.vscode
+
+.env
